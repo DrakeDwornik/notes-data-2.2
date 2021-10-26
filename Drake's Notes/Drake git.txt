@@ -1,0 +1,21 @@
+
+
+git init
+
+Makes your folder a git repository, bad bad, leaks docs
+
+
+cloning 
+git clone
+
+git branch -a (see all branches local and remote)
+
+git checkout {branchname} (change working branch)
+
+git add {filename} adds a file, doesn't happen automagically
+
+MUST ADD CHANGES TOO
+
+git commit -m "the notes of the changre"
+
+git push 
