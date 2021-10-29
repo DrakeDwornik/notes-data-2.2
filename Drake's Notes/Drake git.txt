@@ -15,7 +15,6 @@ git checkout {branchname} (change working branch)
 git add {filename} adds a file, doesn't happen automagically
 
 MUST ADD CHANGES TOO
-
-git commit -m "the notes of the changre"
-
-git push 
+git status
+git commit -m "the notes of the changes"
+git push -u origin

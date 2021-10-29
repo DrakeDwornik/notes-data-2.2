@@ -9,3 +9,7 @@ Additionally you can use it to open files eg `pico ~/dev/My-Project/readme.md`
 
 ##\<TAB\> Completion
 When typing a long file path or filename on the caommand line it can be inconvenient to type the whole thing (and type prone), for example, if trying to change to the directory `~/dev/My-Supercalifragilisticexpialidocious-Project` can be a burden to tpye, and type accurately. Instead, one can type `cd ~/dev/My-Super<TAB>` and it will autocomplete the rest of the directory name. If there is more than one matching directory/file
+
+## pico/nano
+pico or nano are built in editors, the shortcuts are listed at the bottom, ^ means CTRL, Write Out (^O) means save
+
